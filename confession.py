@@ -1,8 +1,7 @@
 import tkinter as tk 
 from tkinter import ttk
-import random
 from customtkinter import *
-from PIL import Image,ImageTk
+import random
 
 #window
 window=CTk()
